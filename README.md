@@ -24,7 +24,8 @@
 ## 🚀 Getting Started
 Clone the repository
 
-git clone https://panasovskyi.github.io/loka/
+git clone https://github.com/panasovskyi/loka.git
+
 cd loka
 
 Install dependencies
