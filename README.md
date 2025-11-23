@@ -1,9 +1,38 @@
-# React TypeScript Starter Pack
+# 📱 Loka
 
-To use this template click `Use this template`
+**Loka** — is a demo mobile WebApp for browsing real estate, integrated with Telegram via WebApp.
 
-### Available Scripts
+---
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+## 🚀 DEMO LINK
+👉 [Live Demo](https://panasovskyi.github.io/loka/)
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+---
+
+
+## ⚙️ Tech Stack
+
+| Technology | Purpose |
+|-------------|----------|
+| ⚛️ React (Create React App) | Frontend framework |
+| 🔷 TypeScript | Static typing |
+| 🔀 React Router (HashRouter) | Client-side routing |
+| 🎨 SCSS (modular) | Styling components |
+
+---
+
+## 🚀 Getting Started
+Clone the repository
+
+git clone https://panasovskyi.github.io/loka/
+cd loka
+
+Install dependencies
+
+npm install or yarn install
+
+Run the project locally
+
+npm start or yarn start
+
+---
